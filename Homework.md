@@ -6,3 +6,4 @@
 
 * git config --global user.email <почта> авторизация в GIT указание почты
 
+* git --version настроена ли программа и какой версии
